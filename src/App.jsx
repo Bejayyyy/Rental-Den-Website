@@ -14,7 +14,7 @@ import { supabase } from "./lib/supabase"
 import { IoSpeedometerOutline, IoPeopleOutline, IoCarOutline } from "react-icons/io5";
 import HeroPageCar2 from "./assets/HeroPage/car2.png"
 import logo from "./assets/logo/logoRental.png"
-import aboutcra from "./assets/aboutuscar.jpg"
+import aboutcra from "./assets/aboutuscarss.jpg"
 import carabout from "./assets/carabout.jpg"
 import aboutcircle from "./assets/circleBg.jpg"
 import carImage from "./assets/Cars.png"
